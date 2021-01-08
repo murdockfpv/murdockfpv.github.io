@@ -4,23 +4,24 @@ title: FPV Drone Shopping List
 permalink: /fpv-shopping-list/
 ---
 
-> Curious about FPV and looking at getting started with Drones!? If you share this interest in drones with me and need to know what to buy, consider using the links on this page which will earn me a commmision (at no cost to you). I hope this page has useful information about drones for you.
+> Curious about FPV and looking at getting started with drones!? If you share this interest in drones with me and need to know what to buy, consider using the links on this page which will earn me a commmision (at no extra cost to you). I hope this page has useful information about drones for you.
 
 _written by Justin Murdock, on Jan 3, 2021_
 
 ## FPV
 
-First things first I will mention are the **cheapest options** that I have found after many, many hours of **FPV drone gear** research. The goal is to put on VR goggles, be connected to a quadcopter, and fly around like a bird. The cheapest all-in-one solution I found was this TinyHawk drone which included a pair of low-end goggles and a controller:
+First things first, I will mention the **least-expensive options** that I have found after many, many hours of **FPV drone gear** research. The goal is to put on VR goggles, be connected to a quadcopter, and fly around like a bird. The cheapest all-in-one solution I found was this TinyHawk drone which included a pair of low-end goggles and a controller:
 
 {% include image.html img_url="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/list-2021-01-03/1_emax_rtf.jpg?raw=true" description="EMAX TinyHawk Ready-To-Fly" product_aff_link="https://emax-usa.com/products/tinyhawk-rtf-kit-including-googles-and-radio?ref=7P96ayzbPSlSj" %}
 
-* $165 Ready-To-Fly "TinyHawk" 1 inch propellors, 1S battery, WITH Controller and Goggles
+* $165 Ready-To-Fly "TinyHawk" 1 inch propellors, 1S battery, _with_ Controller and Goggles
 
 I was shocked to find a system where all 3 components (the drone, the goggles, and the controller) were included for that price. 
 
-* Typically, you buy your drone, goggles, and controller seperately. There are hundreds of options for that and millions of combinations of options for that, and so to make the process easier I've selected the cheapest/best options if you wanted the real deal for your controller and some better goggles. Once you have a good pair of goggles and a good controller, you can use those to fly any drone. I think when you are starting out the best thing to invest in is the goggles and the controller. You don't just want a racing drone with 5 inch propellors powered by a 6S battery unless you generally know how to fly it already.
+* Typically, you buy your drone, goggles, and controller seperately. There are hundreds of options and millions of combinations of options for that, and so to make the process easier I've selected the most affordable/best options if you wanted the real deal for your controller and some better goggles.
+* Once you have a good pair of goggles and a good controller, you can use those to fly any drone. In my opinion, when you are starting out, the best thing to invest in is the goggles and the controller. You don't just want a racing drone with 5 inch propellors powered by a 6S battery unless you generally know how to fly it already.
 * These cheap goggles do not have a DVR function and the drone does not have a microSD card slot, so you would not be able to record footage with it. 
-* You get what you pay for, the controller looks like its for a gaming console and its not a "serious" controller, but overall it would provide a "first experience" flying and would be fun.
+* You get what you pay for, the controller looks like its for a gaming console and its not a "serious" controller, but overall it would provide a "first experience" in flying and would be fun.
 * Another option at a similar price point would be the Tinyhawk 2, which has exposed propellors and would not be as good for flying inside.
 
 {% include image.html img_url="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/list-2021-01-03/31_emax_tinyhawk2.jpg?raw=true" description="EMAX TinyHawk 2 Ready-To-Fly" product_aff_link="https://www.amazon.com/Tinyhawk-Freestyle-Beginners-Carbon-7000KV/dp/B08DKJF84L/ref=sr_1_2?tag=juliusakula-20" %}
@@ -29,7 +30,7 @@ I was shocked to find a system where all 3 components (the drone, the goggles, a
 
 ___ 
 
-Next are the **cheapest and best** combination of components that I could find to purchase seperately. These are still budget options, but much better if drones are something you are seriously interested in.
+Next are the **cheapest and best** combination of components that I could find to purchase separately. These are still budget options, but much better if drones are something you are seriously interested in.
 
 
 {% include image.html img_url="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/list-2021-01-03/4_taranis_x9d.jpg?raw=true" description="(1/3) $218 FPV CONTROLLER: Taranis X9D" product_aff_link="https://www.amazon.com/FrSky-Taranis-Access-Telemetry-Silver/dp/B07VRP1V76/ref=sr_1_1?tag=juliusakula-20" %}
@@ -40,7 +41,7 @@ Next are the **cheapest and best** combination of components that I could find t
 
 Total $540 before tax. The drone should come with a couple batteries and a charger. This is a very good controller (professional), the best of the cheaper style of goggles(box goggle), and a cheapo drone just to have something to fly. More drones are linked in the drone section of this page. You would probably want a good controller and goggles before you got a good drone, so flying a starter drone - a 1S battery class tiny drone - I think is a good move.
 
-The three items above are a combination of a (1) a radio controller to fly your drone (2) VR Goggles that connect to your drone's camera, and (3) a tiny drone to fly. I have found that the above products would be basically the most reasonable (cheapest while still being good quality) getting-started shopping list for FPV droning. The controller above has a charging port which allows you to charge it rather than deal with removing the battery from the controller to charge it, a little more expensive but I think worth it.
+The three items above are a combination of: (1) a radio controller to fly your drone (2) VR Goggles that connect to your drone's camera, and (3) a tiny drone to fly. I have found that the above products would be basically the most reasonable (least expensive while still being good quality) getting-started shopping list for FPV droning. The controller above has a charging port which allows you to charge it rather than deal with removing the battery from the controller to charge it, a little more expensive but I think worth it.
 
 * **Can be ~$200 cheaper** with [$125 FPV CONTROLLER: Taranis Q X7](https://www.amazon.com/FrSky-Taranis-Channels-Transmitter-Controller/dp/B072559WH9?tag=juliusakula-20) and [$119 FPV GOGGLES: Fat Shark Recon](https://www.amazon.com/Shark-Recon-Goggles-Drone-Racing/dp/B07T27C78F/ref=sr_1_1?tag=juliusakula-20) instead. 
 
@@ -65,7 +66,7 @@ ___
 * The world of freestyle FPV and drone racing is a completely different world compared to the type of flying a Mavic does. Your goal as an FPV pilot is to get as close to your subjects as possible and do flips and acrobatics. 
 * You may have seen [JohnnyFPV](https://www.youtube.com/watch?v=jJyPa7KIu6I&start=317 "JohnnyFPV YouTube Channel") on YouTube -- that style of flying looks like so much fun and it just isn't possible to do with the Mavic. 
 * The Mavic doesn't allow itself to become upside-down (_something that happens halfway into a flip_). My Mavic Air 2 automatically stabilizes very well, and it is simply impossible to do flips. This is perfect for a lot of situations, especially photography.
-* Flying Freestyle FPV you are **guaranteed** to crash your drone. You are almost guaranteed to crash your drone **multiple times** per "session", flying freestyle or racing.
+* Flying Freestyle FPV you are **guaranteed** to crash your drone. You are almost guaranteed to crash your drone **multiple times** per "session", while flying freestyle or racing.
 
 {% include simpleimage.html img_url="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/list-2021-01-03/26_drone_pile.jpg?raw=true" description="Crashed drones!"%}
 
@@ -73,7 +74,7 @@ ___
 
 ## FPV Shopping list
 
-> There are many, many different options when it comes to controllers, and goggles, and drones.
+> There are many, many different options when it comes to controllers, goggles, and drones.
 
 ## FPV Controller:
 
