@@ -16,6 +16,13 @@
     
     <!-- Justin's Google Ad Sense info -->
     <script data-ad-client="ca-pub-2939242151861967" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    
+    <!-- Thumbnails -->
+    {% if page.image %}
+      <meta property="og:image" content="{{page.image}}">
+    {% else %}
+      <meta property="og:image" content="https://raw.githubusercontent.com/murdockfpv/murdockfpv.github.io/master/images/MurdockFPV_Avatar.jpg">
+    {% endif %}
   </head>
 
   <body>
