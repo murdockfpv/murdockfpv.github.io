@@ -64,7 +64,7 @@ This is an Altostratus cloud, with overcast cloud coverage.
 
 > Cloud ID: Altostratus. Time of photo: 4:41 PM (16 minutes after sunset)
 
-This is the same Altostratus cloud, 5 minutes later. As you can see, timing was key. Clouds at this altitude peak at a very specific time.
+This is the same Altostratus cloud, 5 minutes later. As you can see, timing was key. Clouds at this altitude peak at a very specific time. Low clouds like this will light up after sunset - after the sun is below the horizon - because the sun shines through the atmosphere at a tangent, and lights these clouds up from below. As light travels through the atmosphere, blue light is scattered, and red light remains and continues straight. This is why the air in sky is blue, and why clouds at sunset can be red.
 
 ___
 
@@ -84,7 +84,7 @@ The weather report says that at the time of sunset, the sky was clear. There are
 
 > Cloud ID: Stratocumulus, Altostratus, and Cirrocumulus. Time of photo: 2:13 pm (2 hours, 14 minutes before sunset)
 
-There was a variety of clouds on this day. Low on the horizon are stratocumulus clouds. In the middle is a sheet of altostratus translucidus clouds. Through the hole in that cloud sheet you can see high altitude, fluffy cirrocumulus clouds.
+These clouds are not aesthetically pleasing, but are important to be able to identify. There are a variety of clouds in this picture. Low on the horizon are a couple of stratocumulus clouds. In the middle is a sheet of altostratus translucidus clouds. Through the hole in that cloud sheet you can see high altitude, fluffy cirrocumulus clouds.
 
 <img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-01-24-cloudresearch/altostratus-cirrostratus_2021-01-20.JPG?raw=true" style="max-height: 100%; max-width: 100%"/>
 
@@ -96,7 +96,7 @@ Based on the sky from this day, I optimistically thought the sunset might be pre
 
 > Cloud ID: Altostratus Time of photo: 4:12 pm (15 minutes before sunset)
 
-These are the clouds which I thought might become red or orange. They were at the right altitude according to what I have read. I believe there were too many clouds at this altitude on the western horizon, which blocked the light from hitting the side of the clouds. If it were clear skies on the western horizon, these clouds would certainly have lit up.
+These are the clouds which I thought might become red or orange. They were at the right altitude according to what I have read. I believe the clouds on the western horizon blocked the light from hitting the side of these clouds. If it were clear skies on the western horizon, these clouds would certainly have lit up.
 
 <img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-01-24-cloudresearch/stratocumulus_2021-01-20.jpg?raw=true" style="max-height: 100%; max-width: 100%"/>
 
