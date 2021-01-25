@@ -21,17 +21,18 @@ METAR @ sunset time:
 
 The weather report says that there is a ___ cloud cieling at ___ feet
 
-Cloud ID: Altocumulus. Time of photo:
+<img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-01-24-cloudresearch/Altocumulus_2021-01-17.JPG?raw=true" style="max-height: 100%; max-width: 100%"/>
 
-[]()
+
+> Cloud ID: Altocumulus. Time of photo:
 
 This is an altocumulus cloud, which means it is mid-altutide (alto-), and is a fluffy cloud (cumulus). The is a southern-facing photo and from this photo you can see that only the western side of the cloud is lit up by the sun. The sunlight can't penetrate the entire cloud, and so basically the cloud is too large to be fully illuminated. A better cloud formation would be smaller cumulus clouds spaced apart. _Altocumulus floccus_ would be one of the best cloud formations to occur during a sunset. The cotton-candy cloud colors contrasting with the blue sky are very aesthetically pleasing.
 
-Cloud ID: Stratocumulus humilus. Time of photo:
+<img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-01-24-cloudresearch/Stratocumulus-humilus_2021-01-17.png?raw=true" style="max-height: 100%; max-width: 100%"/>
 
-[]()
+> Cloud ID: Stratocumulus humilus. Time of photo:
 
-The cloud above the lake here is a stratocumulus humilus. It is low altitude (strato-), fluffy-ish cloud (cumulus) which is wider than it is tall (humilus). If it formed more of a layer, it would be a simple stratus cloud, but it has a well-defined form and is therefore stratocumulus. You can see that the higher altitude clouds are lit up by the sun, while the lower altitude cloud does not catch the sun's rays.
+The cloud above the lake here is a stratocumulus humilus. It is low altitude (strato-), fluffy-ish cloud (cumulus) which is wider than it is tall (humilus). If it formed more of a layer, it would be a simple stratus cloud, but it has a well-defined fluffy form and is therefore stratocumulus. You can see that the higher altitude clouds (altocumulus) are lit up by the sun, while the lower altitude cloud does not catch the sun's rays.
 
 ___
 
@@ -42,18 +43,17 @@ METAR @ sunset time:
 
 The weather report says that there is a ___ cloud cieling at ___ feet
 
-Cloud ID: Altostratus. Time of photo:
+<img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-01-24-cloudresearch/Altostratus_2021-01-18.jpg?raw=true" style="max-height: 100%; max-width: 100%"/>
 
-[]()
+> Cloud ID: Altostratus. Time of photo: 4:36 PM (
 
-This is an altocumulus cloud
+This is an Altostratus cloud, with overcast cloud coverage.
 
+<img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-01-24-cloudresearch/Altostratus_2021-01-18.jpg?raw=true" style="max-height: 100%; max-width: 100%"/>
 
-Cloud ID: Altostratus. Time of photo:
+> Cloud ID: Altostratus. Time of photo: 4:41 PM (
 
-[]()
-
-This is the same altocumulus cloud, 3 minutes later. As you can see, timing was key. Clouds at this altitude peak at a very specific time.
+This is the same Altostratus cloud, 5 minutes later. As you can see, timing was key. Clouds at this altitude peak at a very specific time.
 
 ___
 
@@ -64,21 +64,21 @@ METAR @ sunset time:
 
 The weather report says that there is a ___ cloud cieling at ___ feet
 
-Cloud ID:  Time of photo: 
+<img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/      ?raw=true" style="max-height: 100%; max-width: 100%"/>
 
-[](542)
+> Cloud ID:  Time of photo: 
 
 There was a variety of clouds on this day. Low on the horizon are stratocumulus clouds. In the middle is a sheet of altostratus translucidus clouds. Through the hole in that cloud sheet you can see high altitude cirrocumulus clouds.
 
-Cloud ID:  Time of photo: 
+<img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/      ?raw=true" style="max-height: 100%; max-width: 100%"/>
 
-[](595)
+> Cloud ID:  Time of photo: 
 
 Based on the sky from this day, I thought the sunset might be pretty good. The high altitude clouds spaced apart seemed like they would be lit up all over the sky.
 
-Cloud ID:  Time of photo: 
+<img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/      ?raw=true" style="max-height: 100%; max-width: 100%"/>
 
-[](603)
+> Cloud ID:  Time of photo: 
 
 This was the only cloud in the sky to be lit up around sunset time. The little, low cloud. Why? Possibly because of the altostratus layer blocking the suns rays. It is possible that the tops of this cloud was well lit, but from below we could not see the sunset affecting the clouds.
 
@@ -91,21 +91,21 @@ METAR @ sunset time:
 
 The weather report says that there is a ___ cloud cieling at ___ feet
 
-Cloud ID: Altostratus translucidus. Time of photo: 
+<img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-01-24-cloudresearch/Altostratus-translucidus_2021-01-23.jpg?raw=true" style="max-height: 100%; max-width: 100%"/>
 
-[]()
+> Cloud ID: Altostratus translucidus. Time of photo: 
 
 This is the eastern horizon which was the part of the sky which was most lit around sunset time. The cloud coverage on the western horizon was too dense for any clouds to be lit up. 
 
-Cloud ID: Altostratus floccus. Time of photo: 
+<img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-01-24-cloudresearch/Altocumulus-floccus_2021-01-23.JPG?raw=true" style="max-height: 100%; max-width: 100%"/>
 
-[]()
+> Cloud ID: Altostratus floccus. Time of photo: 
 
 These clouds, all over the sky, would make for a fantastic sunset.
 
-Cloud ID: Altostratus radiatus. Time of photo: 
+<img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-01-24-cloudresearch/Altostratus-radiatus_2021-01-23.JPG?raw=true" style="max-height: 100%; max-width: 100%"/>
 
-[]()
+> Cloud ID: Altostratus radiatus. Time of photo: 
 
 These clouds were very interesting to me. Forming parrallel lines, this cloud formation is relatively rare. One of the more interesting clouds I have taken a picture of. I look forward to capturing more rare clouds in photos.
 
