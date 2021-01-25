@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Clouds at Sunset (a study, 12 photos)
+title: Clouds at Sunset (a study, 13 photos)
 ---
 
-> I really appreciate a good sunset, and want to be able to predict top-tier sunset opportunities based on aviation weather reports. I began a scientific study to determine exactly what factors create a jaw-dropping sunset.
+> I really appreciate a good sunset, and I want to be able to predict top-tier sunset opportunities based on aviation weather reports. I began a scientific study to determine exactly what factors create a jaw-dropping sunset.
 
 # Cloud Research using my drone
 
@@ -57,7 +57,7 @@ Sunset time: 4:25 PM PDT (2021-01-19:0025 UTC)
 * KSZT 190015Z AUTO 00000KT 10SM BKN036 OVC090 01/M02 A3046 RMK AO2
 * KSZT 182355Z AUTO 00000KT 10SM OVC036 02/M02 A3045 RMK AO2
 
-The weather report says that there is a ___ cloud cieling at ___ feet
+> The weather report says that at sunset time there is a broken cloud layer at 3600 feet, and an overcast cloud cieling at 9000 feet
 
 <img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-01-24-cloudresearch/Altostratus_2021-01-18.jpg?raw=true" style="max-height: 100%; max-width: 100%"/>
 
@@ -83,7 +83,7 @@ Sunset time: 4:27 PM PDT (2021-01-21:0027 UTC)
 * KSZT 210035Z AUTO 22003KT 10SM CLR 02/M03 A3008 RMK AO2
 * KSZT 210015Z AUTO 20004KT 10SM CLR 02/M03 A3008 RMK AO2
 
-The weather report says that at the time of sunset, the sky was clear. There are clearly scattered clouds in the photos. Maybe the weather station needs to be serviced. The accuracy of the weather station is certainly a part of this equation and makes sunset prediction that much harder. 
+> The weather report says that at the time of sunset, the sky was clear. There are clearly scattered clouds in the photos. Maybe the weather station needs to be serviced. The accuracy of the weather station is certainly a part of this equation and makes sunset prediction that much harder. 
 
 <img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-01-24-cloudresearch/variety_2021-01-20.JPG?raw=true" style="max-height: 100%; max-width: 100%"/>
 
@@ -122,7 +122,7 @@ Sunset time: 4:32 PM PDT (2021-01-24:0032 UTC)
 * KSZT 240015Z AUTO 00000KT 10SM CLR M02/M08 A3004 RMK AO2
 * KSZT 232355Z AUTO 00000KT 10SM SCT027 M02/M08 A3005 RMK AO2
 
-Again the weather report says that at the time of sunset, the sky was clear - perhaps a malfunctioning weather station.
+> Again the weather report says that at the time of sunset, the sky was clear - perhaps a malfunctioning weather station.
 
 <img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-01-24-cloudresearch/Altocumulus-floccus_2021-01-23.JPG?raw=true" style="max-height: 100%; max-width: 100%"/>
 
@@ -140,11 +140,16 @@ These clouds were very interesting to me. Forming parrallel lines, this cloud fo
 
 > Cloud ID: Altostratus translucidus. Time of photo: 4:41 pm (9 minutes after sunset)
 
-This is the eastern horizon which was the part of the sky which walit up the most around sunset time. The cloud coverage on the western horizon was too dense for any clouds to be visibly lit up. 
+This is the eastern horizon which was the part of the sky which was lit up the most around sunset time. The cloud coverage on the western horizon was too dense for any clouds to be visibly lit up. 
+
 ___
 
 # In conclusion
 
 Learning to identfy clouds is essential for predicting a great sunset, in addition to reading and understanding the most recent local weather report. Knowing how each cloud behaves as the sun sets can help optimize your arrival time on location. If a certain type of cloud does not get lit until after sunset, it is not necessary to arrive early to get the picture you want. Dense clouds and extensive cloud coverage will not allow the light to illuminate the sky in the aesthetically pleasing way that we all know. My scientific research with my drone has confirmed what I have read online: you want mid-altitude clouds, with 30-70% cloud coverage. If it is completely overcast, you could comfortably skip any attempt at a sunset picture that day with no fear of missing out. I have found that sunsets are basically "over" about 15 minutes after official sunset time, and vibrant sunsets occur an-hour-before to 15-minutes-after offical sunset time. One of the most important aspects of sunsets is a partially clear sky, where the sun's rays can travel and land on clouds, illuminating them. Too many clouds will simply block the suns rays, or light up the top of the cloud, which we cannot see from below. 
 
-I think the best advice would be: be in the right place at the right time, and simply capture the photo when the opportunity presents itself. It's not really something you can force. As the clouds in the sky change rapidly, it can be very hard to predict if the clouds that are present 1 hour before sunset will still be around to give us the vibrant sunset we want. Keep your eye on the sky and your camera ready.
+I think the best advice would be: be in the right place at the right time, and simply capture the photo when the opportunity presents itself. It's not really something you can force. As the clouds in the sky change rapidly, it can be very hard to predict if the clouds that are present 1 hour before sunset will still be around to give us the vibrant sunset we want. **Keep your eye on the sky and your camera ready.**
+
+<img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-01-24-cloudresearch/altocumulus_2020-12-23.JPG?raw=true" style="max-height: 100%; max-width: 100%"/>
+
+> **NO MORE MISSED OPPORTUNITIES!**. 15 minutes earlier, this photo would have been insane! I saw other peoples photos of the sunset from this day, and it was an incredible opportunity that I missed. It is helpful to know that I was *too late* with my photo, and not *too early*. If the photo wasn't what I wanted and I chose to wait for the colors to improve, since I already missed the peak of the sunset I would be waiting in vain. It is at least good to know when it is time to call it quits. I will be checking the sunset 45 minutes prior to official sunset time, and flying from 20 minutes before to 15 minutes after since my drone batteries last 35 minutes. I should get an amazing sunset photo soon. Stay tuned.
