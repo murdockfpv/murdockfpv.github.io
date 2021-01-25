@@ -1,6 +1,11 @@
+---
+layout: post
+title: Clouds at Sunset (a study)
+---
+
 > I really appreciate a good sunset, and want to be able to predict top-tier sunset opportunities based on aviation weather reports. I began a scientific study to determine exactly what factors create a jaw-dropping sunset.
 
-# Cloud Research
+# Cloud Research using my drone
 
 <img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-01-24-cloudresearch/Altostratus_2020-10-27.JPG?raw=true" style="max-height: 100%; max-width: 100%"/>
 
@@ -140,6 +145,6 @@ ___
 
 # In conclusion
 
-Learning to identfy clouds is essential for predicting a great sunset, in addition to reading and understanding the most recent local weather report. Knowing how each cloud behaves as the sun sets can help optimize your arrival time on location. If a certain type of cloud does not get lit until after sunset, it is not necessary to arrive early to get the picture you want. Dense clouds and extensive cloud coverage will not allow the light to illuminate the sky in the aesthetically pleasing way that we all know. My scientific research with my drone has confirmed what I have read online: you want mid-altitude clouds, with 30-70% cloud coverage. If it is completely overcast, you could comfortably skip any attempt at a sunset picture that day with no fear of missing out. I have found that sunsets are basically "over" about 15 minutes after official sunset time, and vibrant sunsets occur an-hour-before to 15-minutes-after offical sunset time. One of the most important aspects of sunsets is a partially clear sky, where the sun's rays can travel and land on a cloud, illuminating it. Too many clouds will simply block the suns rays, or light up the top of the cloud, which we cannot see from below. 
+Learning to identfy clouds is essential for predicting a great sunset, in addition to reading and understanding the most recent local weather report. Knowing how each cloud behaves as the sun sets can help optimize your arrival time on location. If a certain type of cloud does not get lit until after sunset, it is not necessary to arrive early to get the picture you want. Dense clouds and extensive cloud coverage will not allow the light to illuminate the sky in the aesthetically pleasing way that we all know. My scientific research with my drone has confirmed what I have read online: you want mid-altitude clouds, with 30-70% cloud coverage. If it is completely overcast, you could comfortably skip any attempt at a sunset picture that day with no fear of missing out. I have found that sunsets are basically "over" about 15 minutes after official sunset time, and vibrant sunsets occur an-hour-before to 15-minutes-after offical sunset time. One of the most important aspects of sunsets is a partially clear sky, where the sun's rays can travel and land on clouds, illuminating them. Too many clouds will simply block the suns rays, or light up the top of the cloud, which we cannot see from below. 
 
 I think the best advice would be: be in the right place at the right time, and simply capture the photo when the opportunity presents itself. It's not really something you can force. As the clouds in the sky change rapidly, it can be very hard to predict if the clouds that are present 1 hour before sunset will still be around to give us the vibrant sunset we want. Keep your eye on the sky and your camera ready.
