@@ -152,4 +152,13 @@ I think the best advice would be: be in the right place at the right time, and s
 
 <img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-01-24-cloudresearch/altocumulus_2020-12-23.JPG?raw=true" style="max-height: 100%; max-width: 100%"/>
 
-> **NO MORE MISSED OPPORTUNITIES!**. 15 minutes earlier, this photo would have been insane! I saw other peoples photos of the sunset from this day, and it was an incredible opportunity that I missed. It is helpful to know that I was *too late* with my photo, and not *too early*. If the photo wasn't what I wanted and I chose to wait for the colors to improve, since I already missed the peak of the sunset I would be waiting in vain. It is at least good to know when it is time to call it quits. I will be checking the sunset 45 minutes prior to official sunset time, and flying from 20 minutes before to 15 minutes after since my drone batteries last 35 minutes. I should get an amazing sunset photo soon. Stay tuned.
+> **NO MORE MISSED OPPORTUNITIES!**. This is 24 minutes after sunset, December 23, 2020. 15 minutes earlier, this photo would have been insane! I saw other peoples photos of the sunset from this day, and it was an incredible opportunity that I missed - these altocumulus undulatus clouds turned purple! It is helpful to know that I was *too late* with this photo, and not *too early*. If the photo wasn't what I wanted and I chose to wait for the colors to improve, since I already missed the peak of the sunset I would be waiting in vain. It is at least good to know when it is time to call it quits. For future sunset photo opportunities, I will be checking the sunset 45 minutes prior to official sunset time, and flying from 20 minutes before to 15 minutes after since my drone batteries last 35 minutes. I should get an amazing sunset photo soon. Stay tuned.
+
+___
+
+> Full resolution videos and images available on request
+
+___
+
+#### _**I LOVE DRONES:**_  _**[My Blog Homepage](/)**_ 
+#### _Follow me on Instagram:_ [**justinmurdock7b**](https://www.instagram.com/justinmurdock7b/?hl=en)
