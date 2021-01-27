@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Clouds at Sunset (a study, 13 photos)
+preview: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-01-24-cloudresearch/Altostratus_2020-10-27.JPG?raw=true
 ---
 
 > I really appreciate a good sunset, and I want to be able to predict top-tier sunset opportunities based on aviation weather reports. I began a scientific study to determine exactly what factors create a jaw-dropping sunset.
