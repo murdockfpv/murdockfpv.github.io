@@ -12,7 +12,14 @@ layout: default
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More (click here for full blog post)</a>
-    </article>
-  {% endfor %}
+      <!-- Preview image -->
+      {% if page.thumbnail %}
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">
+        <img src="{{page.preview}}" style="max-height: 100%; max-width: 100%" />
+        Read More (click here for full blog post)</a>
+      {% else %}
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More (click here for full blog post)</a>
+      {% endif %}
+      </article>
+    {% endfor %}
 </div>
