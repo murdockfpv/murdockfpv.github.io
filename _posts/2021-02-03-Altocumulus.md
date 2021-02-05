@@ -2,6 +2,7 @@
 layout: post
 title: Altocumulus clouds at sunset (Feb 3, 2021 - 7 photos)
 preview: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-02-03/20210203sunset_golden.jpg?raw=true
+thumbnail: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-02-03/20210203sunset_golden.jpg?raw=true
 tags: sunset; clouds
 ---
 
