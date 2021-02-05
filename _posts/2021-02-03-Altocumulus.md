@@ -42,7 +42,9 @@ ___
 
 In my study I am noticing a trend with red clouds: they only appear after sunset. After the sun is below the horizon the sunlight skims the surface of the earth and travels through the atmosphere -- the blue light scatters making the sky blue while the remaining red, orange and yellow light land on the clouds, lighting them up. 
 
-The clouds changed quite a bit due to wind between those photos only 14 minutes apart, even with low reported surface winds at the time. The most aesthetic/ideal photo on this day was 13 minutes before sunset, out of the 25GB of footage and pictures I took of clouds, because the cloud became too dense to let light shine through, producing a dark grey cloud. Conditions can change very rapidly.
+The clouds changed quite a bit due to wind between those two photos only 14 minutes apart, even with low reported surface winds at the time. The most aesthetic/ideal photo on this day was 13 minutes before sunset, because the cloud became too dense to let light shine through, producing a dark grey cloud. 
+
+A previous hypothesis of mine was that the best sunset photo would include "red" colors - but the golden color before official sunset time was more stunning on this day with reported scattered clouds at 500 feet. Also noteworthy from this day is that "golden hour" was happening 34 minutes before sunset.
 
 ___
 
