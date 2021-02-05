@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Altocumulus clouds at sunset (7 photos)
+title: Altocumulus clouds at sunset (SCIENCE)(7 photos)
 preview: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-02-03/20210203sunset_golden.jpg?raw=true
 thumbnail: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-02-03/20210203sunset_golden.jpg?raw=true
 tags: sunset; clouds
 ---
 
-> Several indications from aviation weather reports pointed towards a good sunset .. on a scale of 1-10, in the 5-7+ range -- Scattered cumulus clouds gave me the indication it was worth trying to get a sunset picture after a week straight of overcast stratus clouds.
+> Aviation weather reports pointed towards a good sunset. Scattered cumulus clouds gave me the indication it was worth trying to get a sunset picture after a week straight of overcast stratus clouds.
 
 # Cloud check
 
