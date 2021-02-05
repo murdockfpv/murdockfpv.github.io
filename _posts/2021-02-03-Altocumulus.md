@@ -5,7 +5,7 @@ preview: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2
 tags: sunset; clouds
 ---
 
-> All indications from aviation weather reports pointed towards a sunset .. on a scale of 1-10, in the 5-7+ range. Scattered cumulus clouds gave me the indication it was worth trying to get a sunset picture after a week straight of overcast stratus clouds.
+> Several indications from aviation weather reports pointed towards a good sunset .. on a scale of 1-10, in the 5-7+ range -- Scattered cumulus clouds gave me the indication it was worth trying to get a sunset picture after a week straight of overcast stratus clouds.
 
 # Cloud check
 
