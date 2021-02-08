@@ -17,6 +17,7 @@ var viewer = new PhotoSphereViewer.Viewer({
     defaultLat: {{ include.default_lat }},
     defaultZoomLvl: {{ include.default_zoom }},
     caption: '{{ include.caption }}',
-    navbar: ['zoom','caption']
+    autorotateDelay: 2000,
+    navbar: ['zoom','autorotate', 'caption']
   });
 </script>
