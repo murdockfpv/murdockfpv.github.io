@@ -1,0 +1,33 @@
+<div id="{{ include.id }}" style="max-width: 100%"></div>
+
+<div class="pano-nav-buttons">
+<button onclick="nextImage()">Next Image</button>
+<button onclick="previousImage()">Previous Image</button>
+</div>
+
+<style>
+  /* the viewer container must have a defined size */
+  #{{ include.id }} {
+    width: 100vw;
+    height: 50vh;
+  }
+</style>
+
+<script>
+const img_urls = [{{include.img_urls}}]
+const viewer = new PhotoSphereViewer.Viewer({
+    container: document.querySelector('#{{ include.id }}'),
+    panorama: img_urls[0],
+    touchmoveTwoFingers: true,
+    defaultLong: {{ include.default_long }},
+    defaultLat: {{ include.default_lat }},
+    defaultZoomLvl: {{ include.default_zoom }},
+    caption: '{{ include.caption }}',
+    autorotateDelay: 1500,
+    autorotateSpeed: '2rpm',
+    navbar: ['zoom','autorotate', 'caption']
+  });
+  function nextImage() {
+    viewer.setPanorama(img_urls[1], null, true);
+  };
+</script>
