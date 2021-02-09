@@ -25,7 +25,7 @@ const viewer = new PhotoSphereViewer.Viewer({
     navbar: ['fullscreen', 'autorotate', 'zoom', 'caption', 
       {
         id: 'previous-image',
-        icon: '/images/left_arrow.svg',
+        content: '<img src="/images/left_arrow.svg" style="max-wdith: 100%;max-height: 100%;" />',
         title: 'Previous Image',
         className: 'custom-button',
         onClick: () => {
@@ -40,7 +40,7 @@ const viewer = new PhotoSphereViewer.Viewer({
       },
       {
         id: 'next-image',
-        icon: '/images/right_arrow.svg',
+        content: '<img src="/images/right_arrow.svg" style="max-wdith: 100%;max-height: 100%;" />',
         title: 'Next Image',
         className: 'custom-button',
         onClick: () => {
