@@ -11,6 +11,7 @@
 <script>
   
 const img_urls = [{{include.img_urls}}];
+const captions = [{{include.captions}}];
   
 const viewer = new PhotoSphereViewer.Viewer({
     container: document.querySelector('#{{ include.id }}'),
@@ -19,7 +20,7 @@ const viewer = new PhotoSphereViewer.Viewer({
     defaultLong: {{ include.default_long }},
     defaultLat: {{ include.default_lat }},
     defaultZoomLvl: {{ include.default_zoom }},
-    caption: '{{ include.caption }}',
+    caption: captions[0],
     autorotateDelay: 2200,
     autorotateSpeed: '1rpm',
     navbar: ['fullscreen', 'autorotate', 'zoom', 'caption', 
@@ -32,9 +33,11 @@ const viewer = new PhotoSphereViewer.Viewer({
           let prev_img = img_urls.indexOf(viewer.config.panorama) - 1;
           if(prev_img < 0){
             viewer.setPanorama(img_urls[img_urls.length - 1]);
+            viewer.setOptions({'caption': captions[captions.length - 1]});
           }
           else{
             viewer.setPanorama(img_urls[prev_img]); 
+            viewer.setOptions({'caption': captions[prev_img]});
           }
         }
       },
@@ -47,9 +50,11 @@ const viewer = new PhotoSphereViewer.Viewer({
           let next_img = img_urls.indexOf(viewer.config.panorama) + 1;
           if(next_img > img_urls.length - 1){
             viewer.setPanorama(img_urls[0]);
+            viewer.setOptions({'caption': captions[0]});
           }
           else{
             viewer.setPanorama(img_urls[next_img]); 
+            viewer.setOptions({'caption': captions[next_img]});
           }
         }
       },
