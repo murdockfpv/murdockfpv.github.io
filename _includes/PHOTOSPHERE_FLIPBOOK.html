@@ -20,24 +20,28 @@ const viewer = new PhotoSphereViewer.Viewer({
     caption: '{{ include.caption }}',
     autorotateDelay: 1500,
     autorotateSpeed: '2rpm',
-    navbar: ['zoom','autorotate', 'caption', {
-      id: 'next-image',
-      content: 'Next Image',
-      title: 'Next Image Title',
-      className: 'custom-button',
-      onClick: () => {
-        viewer.once('ready', () => {
-          viewer.setPanorama(img_urls[1]).then(); 
-        });
-      }, {
-      id: 'previous-image',
-      content: 'Previous Image',
-      title: 'Previous Image Title',
-      className: 'custom-button2',
-      onClick: () => {
-        viewer.once('ready', () => {
-          viewer.setPanorama(img_urls[0]).then(); 
-        });
+    navbar: ['zoom','autorotate', 'caption', 
+      {
+        id: 'next-image',
+        content: 'Next Image',
+        title: 'Next Image Title',
+        className: 'custom-button',
+        onClick: () => {
+          viewer.once('ready', () => {
+            viewer.setPanorama(img_urls[1]).then(); 
+          });
+        }
+      },
+      {
+        id: 'previous-image',
+        content: 'Previous Image',
+        title: 'Previous Image Title',
+        className: 'custom-button2',
+        onClick: () => {
+          viewer.once('ready', () => {
+            viewer.setPanorama(img_urls[0]).then(); 
+          });
+        }
       }
     }]
   });
