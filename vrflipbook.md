@@ -10,7 +10,7 @@ permalink: /vrflipbook/
 
 {% include PHOTOSPHERE_LIBRARY.html %}
 
-{% include PHOTOSPHERE_FLIPBOOK.html caption="February 3rd, 2021" img_urls="'/images/2021-02-03_360panos/0203_pano0.JPG', '/images/2021-02-03_360panos/0203_pano6.JPG', '/images/2021-02-03_360panos/0203_pano9.JPG', '/images/2021-02-03_360panos/0203_pano10.JPG'" id="viewer1" default_lat="0.287" default_long="1.13" default_zoom="70" %}
+{% include PHOTOSPHERE_FLIPBOOK.html captions="'February 3rd, 2021: 12:53pm', 'February 3rd, 2021: 4:30pm', 'February 3rd, 2021: 4:47pm', 'February 3rd, 2021: 4:51pm'" img_urls="'/images/2021-02-03_360panos/0203_pano0.JPG', '/images/2021-02-03_360panos/0203_pano6.JPG', '/images/2021-02-03_360panos/0203_pano9.JPG', '/images/2021-02-03_360panos/0203_pano10.JPG'" id="viewer1" default_lat="0.287" default_long="1.13" default_zoom="70" %}
 
 ___
 
