@@ -30,6 +30,8 @@ const viewer = new PhotoSphereViewer.Viewer({
           viewer.once('ready', () => {
             viewer.setPanorama(img_urls[1]).then(); 
           });
+          console.log("next");
+          console.log(img_urls[1]);
         }
       },
       {
@@ -41,6 +43,7 @@ const viewer = new PhotoSphereViewer.Viewer({
           viewer.once('ready', () => {
             viewer.setPanorama(img_urls[0]).then(); 
           });
+          console.log("previous");
         }
       }
     ]
