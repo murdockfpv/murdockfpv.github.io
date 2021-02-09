@@ -16,7 +16,7 @@ layout: default
       {% if post.preview %}
         <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{post.preview}}" style="max-height: 75%; max-width: 75%; padding-left:20%" /></a>
         <br>
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More (click here for full blog post)</a>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more" style="padding-left: 20%">Read More (click here for full blog post)</a>
       {% else %}
         <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More (click here for full blog post)</a>
       {% endif %}
