@@ -28,9 +28,13 @@ const viewer = new PhotoSphereViewer.Viewer({
     navbar: ['zoom','autorotate', 'caption']
   });
   function nextImage() {
-    viewer.setPanorama(img_urls[1], null, true);
+    viewer.once('ready', () => {
+      viewer.setPanorama(img_urls[1], null, true).then(); 
+    });
   }
-    function previousImage() {
-    viewer.setPanorama(img_urls[0], null, true);
+  function previousImage() {
+    viewer.once('ready', () => {
+      viewer.setPanorama(img_urls[0], null, true).then();
+    });
   }
 </script>
