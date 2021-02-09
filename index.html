@@ -15,6 +15,7 @@ layout: default
       <!-- Preview image -->
       {% if post.preview %}
         <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{post.preview}}" style="max-height: 50%; max-width: 50%" /></a>
+        <br>
         <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More (click here for full blog post)</a>
       {% else %}
         <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More (click here for full blog post)</a>
