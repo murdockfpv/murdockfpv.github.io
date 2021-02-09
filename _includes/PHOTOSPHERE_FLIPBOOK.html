@@ -45,7 +45,7 @@ const viewer = new PhotoSphereViewer.Viewer({
         className: 'custom-button',
         onClick: () => {
           let next_img = img_urls.indexOf(viewer.config.panorama) + 1;
-          if(next_img > img_urls.length){
+          if(next_img > img_urls.length - 1){
             viewer.setPanorama(img_urls[0]);
           }
           else{
