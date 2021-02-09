@@ -1,10 +1,5 @@
 <div id="{{ include.id }}" style="max-width: 100%"></div>
 
-<div class="pano-nav-buttons">
-<button onclick="nextImage()">Next Image</button>
-<button onclick="previousImage()">Previous Image</button>
-</div>
-
 <style>
   /* the viewer container must have a defined size */
   #{{ include.id }} {
@@ -25,18 +20,25 @@ const viewer = new PhotoSphereViewer.Viewer({
     caption: '{{ include.caption }}',
     autorotateDelay: 1500,
     autorotateSpeed: '2rpm',
-    navbar: ['zoom','autorotate', 'caption']
+    navbar: ['zoom','autorotate', 'caption', {
+      id: 'next-image',
+      content: 'Next Image',
+      title: 'Next Image Title',
+      className: 'custom-button',
+      onClick: () => {
+        viewer.once('ready', () => {
+          viewer.setPanorama(img_urls[1]).then(); 
+        });
+      }, {
+      id: 'previous-image',
+      content: 'Previous Image',
+      title: 'Previous Image Title',
+      className: 'custom-button2',
+      onClick: () => {
+        viewer.once('ready', () => {
+          viewer.setPanorama(img_urls[0]).then(); 
+        });
+      }
+    }]
   });
-  function nextImage() {
-    viewer.once('ready', () => {
-      viewer.setPanorama(img_urls[1]).then(); 
-    });
-    console.log("updated to next one");
-  }
-  function previousImage() {
-    viewer.once('ready', () => {
-      viewer.setPanorama(img_urls[0]).then();
-    });
-    console.log("updated to previous one");
-  }
 </script>
