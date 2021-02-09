@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Virtual Reality Flipbook
-permalink: /vr_flipbook/
+permalink: /vrflipbook/
 ---
 
 > Check out this 360-photo switcher
