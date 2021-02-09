@@ -2,6 +2,7 @@
 layout: post
 title: Landscape Photography (5 panoramic photos)
 thumbnail: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/DJI_0133-2.jpg?raw=true
+preview: https://github.com/murdockfpv/murdockfpv.github.io/raw/master/images/DJI_0111.jpg?raw=true
 ---
 
 > I've flown my Mavic Air 2 for about 6 months now and I have loved it. I've really enjoyed getting up in the air and taking the best photos that I can. Here's a few of my favorite panoramic photos that I've taken.
