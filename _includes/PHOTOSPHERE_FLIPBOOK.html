@@ -29,12 +29,12 @@ const viewer = new PhotoSphereViewer.Viewer({
   });
   function nextImage() {
     viewer.once('ready', () => {
-      viewer.setPanorama(img_urls[1], null, true).then(); 
+      viewer.setPanorama(img_urls[1]).then(); 
     });
   }
   function previousImage() {
     viewer.once('ready', () => {
-      viewer.setPanorama(img_urls[0], null, true).then();
+      viewer.setPanorama(img_urls[0]).then();
     });
   }
 </script>
