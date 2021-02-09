@@ -46,7 +46,7 @@ const viewer = new PhotoSphereViewer.Viewer({
         onClick: () => {
           let prev_img = img_urls.indexOf(viewer.config.panorama) - 1;
           if(prev_img < 0){
-            viewer.setPanorama(img_urls[img_urls.length]);
+            viewer.setPanorama(img_urls[img_urls.length - 1]);
           }
           else{
             viewer.setPanorama(img_urls[prev_img]); 
