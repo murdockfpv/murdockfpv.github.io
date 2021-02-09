@@ -9,10 +9,14 @@
 </style>
 
 <script>
+  
+const raw_img_prefix = 'https://github.com/murdockfpv/murdockfpv.github.io/blob/master';
+const raw_img_suffix = '?raw=true';
 const img_urls = [{{include.img_urls}}];
+  
 const viewer = new PhotoSphereViewer.Viewer({
     container: document.querySelector('#{{ include.id }}'),
-    panorama: img_urls[0],
+    panorama: raw_img_prefix + img_urls[0] + raw_img_suffix,
     touchmoveTwoFingers: true,
     defaultLong: {{ include.default_long }},
     defaultLat: {{ include.default_lat }},
@@ -27,9 +31,9 @@ const viewer = new PhotoSphereViewer.Viewer({
         title: 'Next Image Title',
         className: 'custom-button',
         onClick: () => {
-          viewer.setPanorama(img_urls[1]); 
-          console.log("next1");
-          console.log(img_urls[1]);
+          viewer.setPanorama(raw_img_prefix + img_urls[1] + raw_img_suffix); 
+          console.log("next2");
+          console.log(raw_img_prefix + img_urls[1] + raw_img_suffix);
         }
       },
       {
@@ -38,8 +42,9 @@ const viewer = new PhotoSphereViewer.Viewer({
         title: 'Previous Image Title',
         className: 'custom-button2',
         onClick: () => {
-          viewer.setPanorama(img_urls[0]); 
-          console.log("previous");
+          viewer.setPanorama(raw_img_prefix + img_urls[0] + raw_img_suffix); 
+          console.log("previous2");
+          console.log(raw_img_prefix + img_urls[0] + raw_img_suffix);
         }
       }
     ]
