@@ -31,10 +31,12 @@ const viewer = new PhotoSphereViewer.Viewer({
     viewer.once('ready', () => {
       viewer.setPanorama(img_urls[1]).then(); 
     });
+    console.log("updated to next one");
   }
   function previousImage() {
     viewer.once('ready', () => {
       viewer.setPanorama(img_urls[0]).then();
     });
+    console.log("updated to previous one");
   }
 </script>
