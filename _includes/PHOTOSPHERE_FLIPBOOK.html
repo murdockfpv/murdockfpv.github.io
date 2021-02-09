@@ -25,9 +25,9 @@ const viewer = new PhotoSphereViewer.Viewer({
     navbar: ['zoom','autorotate', 'caption', 
       {
         id: 'previous-image',
-        content: '<-',
+        content: '⮨',
         title: 'Previous Image',
-        className: 'custom-button2',
+        className: 'custom-button',
         onClick: () => {
           let prev_img = img_urls.indexOf(viewer.config.panorama) - 1;
           if(prev_img < 0){
@@ -40,7 +40,7 @@ const viewer = new PhotoSphereViewer.Viewer({
       },
       {
         id: 'next-image',
-        content: '->',
+        content: '⮩',
         title: 'Next Image',
         className: 'custom-button',
         onClick: () => {
