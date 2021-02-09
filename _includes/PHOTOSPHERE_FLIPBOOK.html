@@ -29,9 +29,13 @@ const viewer = new PhotoSphereViewer.Viewer({
         title: 'Next Image Title',
         className: 'custom-button',
         onClick: () => {
-          viewer.setPanorama(img_urls[1]); 
-          console.log("next2");
-          console.log(img_urls[1]);
+          let next_img = img_urls.indexOf(viewer.config.panorama) + 1;
+          if(next_img > img_urls.length){
+            viewer.setPanorama(img_urls[0]);
+          }
+          else{
+            viewer.setPanorama(img_urls[img_urls.indexOf(viewer.config.panorama) + 1]); 
+          }
         }
       },
       {
@@ -40,9 +44,13 @@ const viewer = new PhotoSphereViewer.Viewer({
         title: 'Previous Image Title',
         className: 'custom-button2',
         onClick: () => {
-          viewer.setPanorama(img_urls[0]); 
-          console.log("previous2");
-          console.log(img_urls[0]);
+          let prev_img = img_urls.indexOf(viewer.config.panorama) - 1;
+          if(prev_img < 0){
+            viewer.setPanorama(img_urls[img_urls.length]);
+          }
+          else{
+            viewer.setPanorama(img_urls[prev_img]); 
+          }
         }
       }
     ]
