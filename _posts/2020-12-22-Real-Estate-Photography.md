@@ -2,6 +2,8 @@
 layout: post
 title: Real Estate Photography - Justin Murdock
 permalink: /photography/
+preview: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/sunnyside_2.jpg?raw=true
+thumbnail: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/sunnyside_2.jpg?raw=true
 ---
 
 > I am a comercially licensed UAV Pilot with a registered drone for hire. My camera-in-the-sky can capture incredible images. This page contains a photo album from a ten-minute flight session. Photos have been reduced in quality by a factor of 10 so that they load faster here. At full quality my photos are anywhere from 10-40 MB, for this website they have been reduced to about 1MB.
