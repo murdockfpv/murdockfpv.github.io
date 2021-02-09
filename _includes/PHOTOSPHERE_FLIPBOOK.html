@@ -27,10 +27,8 @@ const viewer = new PhotoSphereViewer.Viewer({
         title: 'Next Image Title',
         className: 'custom-button',
         onClick: () => {
-          viewer.once('ready', () => {
-            viewer.setPanorama(img_urls[1], null, false); 
-          });
-          console.log("next");
+          viewer.setPanorama(img_urls[1], null, false); 
+          console.log("next1");
           console.log(img_urls[1]);
         }
       },
@@ -40,9 +38,7 @@ const viewer = new PhotoSphereViewer.Viewer({
         title: 'Previous Image Title',
         className: 'custom-button2',
         onClick: () => {
-          viewer.once('ready', () => {
-            viewer.setPanorama(img_urls[0], null, false); 
-          });
+          viewer.setPanorama(img_urls[0], null, false); 
           console.log("previous");
         }
       }
