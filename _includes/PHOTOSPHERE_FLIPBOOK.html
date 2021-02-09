@@ -14,7 +14,7 @@
 </style>
 
 <script>
-const img_urls = [{{include.img_urls}}]
+const img_urls = [{{include.img_urls}}];
 const viewer = new PhotoSphereViewer.Viewer({
     container: document.querySelector('#{{ include.id }}'),
     panorama: img_urls[0],
@@ -29,5 +29,8 @@ const viewer = new PhotoSphereViewer.Viewer({
   });
   function nextImage() {
     viewer.setPanorama(img_urls[1], null, true);
-  };
+  }
+    function previousImage() {
+    viewer.setPanorama(img_urls[0], null, true);
+  }
 </script>
