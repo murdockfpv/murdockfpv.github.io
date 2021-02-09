@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Snowy Mountain Adventure (4 photos)
+preview: https://github.com/murdockfpv/murdockfpv.github.io/raw/master/images/2020-12-20-Switchback-7-3.jpg?raw=true
+thumbnail: https://github.com/murdockfpv/murdockfpv.github.io/raw/master/images/2020-12-20-Switchback-7-3.jpg?raw=true
 ---
 
 > Only locals will know what I mean when I say these photos were taken at "The Last Switchback", and that's all the information I'll provide on this location.
