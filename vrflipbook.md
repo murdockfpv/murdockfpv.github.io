@@ -4,9 +4,9 @@ title: Virtual Reality Flipbook
 permalink: /vrflipbook/
 ---
 
-> Check out this 360-photo switcher
+> Check out this 360-photo multi-viewer
 
-## Cloudy day above a bridge:
+## February 3rd, at different times of day
 
 {% include PHOTOSPHERE_LIBRARY.html %}
 
