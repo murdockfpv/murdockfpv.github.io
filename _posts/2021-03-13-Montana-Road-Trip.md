@@ -11,7 +11,7 @@ thumbnail: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images
 
 ___
 
-On Saturday 3/13/21 I drove with my good friend all around Montana to check out a few different spots. We drove for about 7 hours and stopped at about 6 different spots. Montana is GORGEOUS
+On Saturday 3/13/21 I drove all around Montana to check out a few different spots. The adventure lasted about 7 hours. Montana is _**GORGEOUS!**_
 
 {% include PHOTOSPHERE_LIBRARY.html %}
 
@@ -21,11 +21,11 @@ ___
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-03-13/widescreen/20210313-20210313DJI_0089%20(2).jpg?raw=true)
 
-{% include PHOTOSPHERE.html caption="Montana" img_url="/images/2021-03-13/360pano/20210313-DJI_0074.jpg" id="viewer1" default_lat="0" default_long="0" default_zoom="70" %}
+{% include PHOTOSPHERE.html caption="Montana" img_url="/images/2021-03-13/360pano/20210313-DJI_0074.jpg" id="viewer1" default_lat="0" default_long="0" default_zoom="50" %}
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-03-13/widescreen/20210313-DJI_0125%20(2).jpg?raw=true)
 
-{% include PHOTOSPHERE.html caption="Idaho" img_url="/images/2021-03-13/360pano/20210313-DJI_0126.jpg" id="viewer2" default_lat="0" default_long="0" default_zoom="70" %}
+{% include PHOTOSPHERE.html caption="Idaho" img_url="/images/2021-03-13/360pano/20210313-DJI_0126.jpg" id="viewer2" default_lat="0" default_long="0" default_zoom="50" %}
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-03-13/widescreen/20210313-DJI_0106%20(4).jpg?raw=true)
 
@@ -47,10 +47,19 @@ ___
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-03-13/widescreen/20210313-DJI_0069%20(2).jpg?raw=true)
 
-{% include PHOTOSPHERE.html caption="Idaho" img_url="/images/2021-03-13/360pano/20210313-DJI_071.jpg" id="viewer3" default_lat="0" default_long="0" default_zoom="70" %}
+{% include PHOTOSPHERE.html caption="Idaho" img_url="/images/2021-03-13/360pano/20210313-DJI_071.jpg" id="viewer3" default_lat="0" default_long="0" default_zoom="50" %}
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-03-13/widescreen/5_20210314-6DJI_0092.MP4.00_00_12_28.Still001.jpg?raw=true)
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-03-13/7x5/20210313-DJI_0106.jpg?raw=true)
 
 And there I am, sitting on a bridge in Montana, flying around. What a wonderful way to spend my Saturday!
+
+___
+
+> Full resolution videos and images available on request
+
+___
+
+#### _**I LOVE DRONES:**_  _**[My Blog Homepage](/)**_ 
+#### _Follow me on Instagram:_ [**justinmurdock7b**](https://www.instagram.com/justinmurdock7b/?hl=en)
