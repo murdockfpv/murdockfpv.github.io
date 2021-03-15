@@ -43,11 +43,9 @@ ___
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-03-13/widescreen/4_20210314-5DJI_0122.MP4.00_00_17_11.Still001.jpg?raw=true)
 
-> The sky is overexposed here, but I was running low on battery and flying over water so.. not every shot turned out perfect. I'll be buying more batteries in the future.
-
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-03-13/widescreen/20210313-DJI_0069%20(2).jpg?raw=true)
 
-{% include PHOTOSPHERE.html caption="Idaho" img_url="/images/2021-03-13/360pano/20210313-DJI_071.jpg" id="viewer3" default_lat="0" default_long="0" default_zoom="50" %}
+{% include PHOTOSPHERE.html caption="Idaho" img_url="/images/2021-03-13/360pano/20210313-DJI_0071.jpg" id="viewer3" default_lat="0" default_long="0" default_zoom="50" %}
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-03-13/widescreen/5_20210314-6DJI_0092.MP4.00_00_12_28.Still001.jpg?raw=true)
 
