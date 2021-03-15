@@ -15,8 +15,6 @@ On Saturday 3/13/21 I drove all around Montana to check out a few different spot
 
 {% include PHOTOSPHERE_LIBRARY.html %}
 
-___
-
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-03-13/widescreen/20210313-20210313DJI_0148_1%20(2).jpg?raw=true)
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-03-13/widescreen/20210313-20210313DJI_0089%20(2).jpg?raw=true)
