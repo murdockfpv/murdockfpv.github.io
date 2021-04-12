@@ -1,6 +1,6 @@
 ---
 layout: post
-title: California Road Trip (18 photos)
+title: California Road Trip (17 photos)
 preview: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/016_small.jpg?raw=true
 thumbnail: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/016_small.jpg?raw=true
 ---
@@ -28,19 +28,17 @@ ___
 
 ## Northern California, Mt Shasta
 
-![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/006.jpg?raw=true)
+![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/008.jpg?raw=true)
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/007.jpg?raw=true)
 
-![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/008.jpg?raw=true)
-
-{% include PHOTOSPHERE.html caption="Dunsmuir - Castle Crag, California" img_url="/images/2021-04-09/DJI_0368.JPG" id="viewer2" default_lat="0" default_long="4.0" default_zoom="50" %}
-
-![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/009.jpg?raw=true)
+![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/011.jpg?raw=true)
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/010.jpg?raw=true)
 
-![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/011.jpg?raw=true)
+![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/009.jpg?raw=true)
+
+{% include PHOTOSPHERE.html caption="Dunsmuir - Castle Crag, California" img_url="/images/2021-04-09/DJI_0368.JPG" id="viewer2" default_lat="0" default_long="4.0" default_zoom="50" %}
 
 ## Shasta Lake
 
