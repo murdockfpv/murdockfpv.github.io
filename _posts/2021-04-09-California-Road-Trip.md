@@ -1,6 +1,6 @@
 ---
 layout: post
-title: California Road Trip (19 photos)
+title: California Road Trip (18 photos)
 preview: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/016_small.jpg?raw=true
 thumbnail: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/016_small.jpg?raw=true
 ---
