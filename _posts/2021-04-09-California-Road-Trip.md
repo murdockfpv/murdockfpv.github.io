@@ -1,6 +1,6 @@
 ---
 layout: post
-title: California Road Trip (17 photos)
+title: California Road Trip (16 photos)
 preview: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/016_small.jpg?raw=true
 thumbnail: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/016_small.jpg?raw=true
 ---
@@ -38,8 +38,6 @@ ___
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/009.jpg?raw=true)
 
-{% include PHOTOSPHERE.html caption="Dunsmuir - Castle Crag, California" img_url="/images/2021-04-09/DJI_0368.JPG" id="viewer2" default_lat="0" default_long="4.0" default_zoom="50" %}
-
 ## Shasta Lake
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/014.jpg?raw=true)
@@ -52,7 +50,7 @@ ___
 
 ___
 
-> Full resolution videos and images available on request
+> Shortly after City of Shasta Lake the sun went down and I finished my drive without stopping again. There was one more spot as the sun was setting, which was a huge green pasture with cows grazing, but it is hard to find good spots to pull over and fly safely, near the interesting things that I want to photograph. Often times I would see something, and the nearest exit would be 2 or more miles away. I'll take some more pictures on the way back home - stay tuned!
 
 ___
 
