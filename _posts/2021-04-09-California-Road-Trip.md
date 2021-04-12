@@ -14,7 +14,7 @@ ___
 
 ## Western Oregon
 
-{% include PHOTOSPHERE.html caption="Interstate-5 Rest Stop" img_url="/images/2021-04-09/DJI_0320.jpg" id="viewer1" default_lat="0" default_long="0" default_zoom="50" %}
+{% include PHOTOSPHERE.html caption="Interstate-5 Rest Stop" img_url="/images/2021-04-09/DJI_0320.JPG" id="viewer1" default_lat="0" default_long="0" default_zoom="50" %}
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/001.jpg?raw=true)
 
@@ -28,7 +28,7 @@ ___
 
 ## Northern California, Mt Shasta
 
-{% include PHOTOSPHERE.html caption="Dunsmuir, Castle Crag" img_url="/images/2021-04-09/DJI_0368.jpg" id="viewer2" default_lat="0" default_long="0" default_zoom="50" %}
+{% include PHOTOSPHERE.html caption="Dunsmuir, Castle Crag" img_url="/images/2021-04-09/DJI_0368.JPG" id="viewer2" default_lat="0" default_long="0" default_zoom="50" %}
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/006.jpg?raw=true)
 
@@ -50,7 +50,7 @@ ___
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/016_small.jpg?raw=true)
 
-{% include PHOTOSPHERE.html caption="Shasta Lake" img_url="/images/2021-04-09/DJI_0379.jpg" id="viewer3" default_lat="0" default_long="0" default_zoom="50" %}
+{% include PHOTOSPHERE.html caption="Shasta Lake" img_url="/images/2021-04-09/DJI_0379.JPG" id="viewer3" default_lat="0" default_long="0" default_zoom="50" %}
 
 ___
 
