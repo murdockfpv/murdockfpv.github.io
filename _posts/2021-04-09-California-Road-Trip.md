@@ -7,8 +7,9 @@ thumbnail: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images
 
 > On April 8th, 2021 I drove from Portland to San Francisco, and stopped several places along I-5 to fly and take photos.
 
-## Western Oregon
 ___
+
+## Western Oregon
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/001.jpg?raw=true)
 
