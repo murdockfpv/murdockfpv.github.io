@@ -49,7 +49,7 @@ ___
 
 ___
 
-Shortly after City of Shasta Lake the sun went down and I finished my drive without stopping again. There was one more spot as the sun was setting, which was a huge green pasture with cows grazing, but it is hard to find good spots to pull over and fly safely, near the interesting things that I want to photograph. Often times I would see something, and the nearest exit would be 2 or more miles away. I'll take some more pictures on the way back home - stay tuned!
+> Stay tuned for more photos on my next adventure!
 
 ___
 
