@@ -6,8 +6,29 @@ Justin Murdock (owner, author)
 
 ___
 
-# Portfolio of drone photos
+# Blog to serve as a portfolio for my drone photos
 
-## how to getPosition() from the 360 viewer
+## Documentation:
 
-> console -> viewerA.getPosition()
+### 360 Photo-viewer usage: 
+
+```
+{% include PHOTOSPHERE_LIBRARY.html %}
+{% include PHOTOSPHERE.html caption="Shasta Lake, California" img_url="/images/2021-04-09/DJI_0379.JPG" id="viewerA" default_lat="-0.3" default_long="1.3" default_zoom="20" %}
+```
+
+
+### how to getPosition() from the 360 viewer (to find values to set the initial latitude and longitude)
+
+> console -> `viewerA.getPosition()`
+
+### 360 Photo-viewer with flipbook ability:
+
+* code usage example: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/2021-02-09-vrclouds.md
+* demo: https://murdockfpv.github.io/vrclouds/
+
+### Affiliate link with image preview:
+
+```
+{% include image.html img_url="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/list-2021-01-03/4_taranis_x9d.jpg?raw=true" description="$218 FPV CONTROLLER: Taranis X9D" product_aff_link="https://www.amazon.com/FrSky-Taranis-Access-Telemetry-Silver/dp/B07VRP1V76/ref=sr_1_1?tag=juliusakula-20" %}
+```
