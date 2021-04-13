@@ -19,11 +19,11 @@ On Saturday 3/13/21 I drove all around Montana to check out a few different spot
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-03-13/widescreen/20210313-20210313DJI_0089%20(2).jpg?raw=true)
 
-{% include PHOTOSPHERE.html caption="Montana" img_url="/images/2021-03-13/360pano/20210313-DJI_0074.jpg" id="viewer1" default_lat="0" default_long="0" default_zoom="50" %}
+{% include PHOTOSPHERE.html caption="Montana" img_url="/images/2021-03-13/360pano/20210313-DJI_0074.jpg" id="viewerA" default_lat="0" default_long="0" default_zoom="50" %}
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-03-13/widescreen/20210313-DJI_0125%20(2).jpg?raw=true)
 
-{% include PHOTOSPHERE.html caption="Idaho" img_url="/images/2021-03-13/360pano/20210313-DJI_0126.jpg" id="viewer2" default_lat="0" default_long="0" default_zoom="50" %}
+{% include PHOTOSPHERE.html caption="Idaho" img_url="/images/2021-03-13/360pano/20210313-DJI_0126.jpg" id="viewerB" default_lat="0" default_long="0" default_zoom="50" %}
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-03-13/widescreen/20210313-DJI_0106%20(4).jpg?raw=true)
 
@@ -43,7 +43,7 @@ On Saturday 3/13/21 I drove all around Montana to check out a few different spot
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-03-13/widescreen/20210313-DJI_0069%20(2).jpg?raw=true)
 
-{% include PHOTOSPHERE.html caption="Idaho" img_url="/images/2021-03-13/360pano/20210313-DJI_0071.jpg" id="viewer3" default_lat="0" default_long="0" default_zoom="50" %}
+{% include PHOTOSPHERE.html caption="Idaho" img_url="/images/2021-03-13/360pano/20210313-DJI_0071.jpg" id="viewerC" default_lat="0" default_long="0" default_zoom="50" %}
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-03-13/widescreen/5_20210314-6DJI_0092.MP4.00_00_12_28.Still001.jpg?raw=true)
 
