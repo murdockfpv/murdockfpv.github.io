@@ -71,12 +71,3 @@ ___
 <img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-02-03/20210203_ultrawide.jpg?raw=true" style="max-height: 100%; max-width: 100%"/>  
 
 The sky cleared up a bit too much and the photos ended up rather empty. Stay tuned for some better sunset photos in the future. None of the photos on this page were altered for color or exposure as this is part of my study of real colors and light.
-
-___
-
-> Full resolution videos and images available on request
-
-___
-
-#### _**I LOVE DRONES:**_  _**[My Blog Homepage](/)**_ 
-#### _Follow me on Instagram:_ [**justinmurdock7b**](https://www.instagram.com/justinmurdock7b/?hl=en)
