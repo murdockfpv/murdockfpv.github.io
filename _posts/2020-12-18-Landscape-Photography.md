@@ -28,12 +28,3 @@ preview: https://github.com/murdockfpv/murdockfpv.github.io/raw/master/images/DJ
 #### Kootenai Falls:
 
 <img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/DJI_0137-2.jpg?raw=true" style="max-width:100%"/>
-
-___ 
-
-> Full resolution videos and images available on request
-
-___
-
-#### _**I LOVE DRONES [My Blog Homepage](/)**_
-#### _Follow me on Instagram:_ [**justinmurdock7b**](https://www.instagram.com/justinmurdock7b/?hl=en)
