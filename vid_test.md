@@ -14,14 +14,5 @@ permalink: /vid_test/
 
 #### More information
 
-* This type of thing is immensely helpful: Emails have file size limits, even sending a short preview can prove difficult. This uses web-hosting for the content and allows me to show you a preview of what has been captured. I can simply email you a link to a page like this.
-* The full resolution files are huge at 4K/60FPS, I exported this video in such a way with lowered resolution so that **this video is only 17MB. I can capture a single .JPG image 30-40 MB with my drone**.
-
-___
-
-> Full resolution videos and images available on request
-
-___
-
-#### _**I LOVE DRONES**_
-#### _Follow on Instagram:_ [**justinmurdock7b**](https://www.instagram.com/justinmurdock7b/?hl=en)
+* Emails have file size limits, even sending a short preview of an UltraHD video can prove difficult. This page uses web-hosting for the content and allows me to show you a preview of the footage I might capture for you.
+* The full resolution files are huge at 4K resolution and up to 60 FPS, I exported this video in such a way with lowered resolution so that **this video is only 17MB. I can capture a single .JPG image 30-40 MB with my drone**. Even a short ultraHD video can be multiple GB.
