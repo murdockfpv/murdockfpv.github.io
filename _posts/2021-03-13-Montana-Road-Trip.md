@@ -50,12 +50,3 @@ On Saturday 3/13/21 I drove all around Montana to check out a few different spot
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-03-13/7x5/20210313-DJI_0106.jpg?raw=true)
 
 And there I am, sitting on a bridge in Montana, flying around. What a wonderful way to spend my Saturday!
-
-___
-
-> Full resolution videos and images available on request
-
-___
-
-#### _**I LOVE DRONES:**_  _**[My Blog Homepage](/)**_ 
-#### _Follow me on Instagram:_ [**justinmurdock7b**](https://www.instagram.com/justinmurdock7b/?hl=en)
