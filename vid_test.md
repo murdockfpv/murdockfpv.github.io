@@ -8,7 +8,7 @@ permalink: /vid_test/
 
 ### Some example footage of mine (lowered resolution)
 
-<video src="https://github.com/murdockFPV/murdockfpv.github.io/blob/master/images/test_video.mp4?raw=true" poster="https://github.com/murdockFPV/murdockfpv.github.io/blob/master/images/akulafpvlunchpeak.jpg?raw=true" style="max-width: 100%; max-height: 100%" controls preload></video>
+<video src="https://github.com/murdockFPV/murdockfpv.github.io/blob/master/images/test_video.mp4?raw=true" poster="https://github.com/murdockFPV/murdockfpv.github.io/blob/master/images/poster_vid_test.png?raw=true" style="max-width: 100%; max-height: 100%" controls preload></video>
 
 *Thanks for visiting my blog!* This specific page is me posting some drone footage like I might do for a client. You are welcome to view this as an example if you were to contact me for my services.
 
