@@ -252,8 +252,3 @@ ___
 > If you use any of the links on this page and purchase a drone/controller/goggles of your own, thank you! I will earn a comission on any products linked on this page, except for the [Drone Racing League Simulator on Steam](https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator/). If you'd like to race each other on the Drone Simulator add me on Steam: my Steam "Friend Code" is 43723941. The simulator can technically be played with a mouse and keyboard, but would be best with a real controller such as the [Taranis X9D](https://www.amazon.com/FrSky-Taranis-Access-Telemetry-Silver/dp/B07VRP1V76/ref=sr_1_1?tag=juliusakula-20).
 
 {% include image.html img_url="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/list-2021-01-03/23_drl-sim.jpg?raw=true" description="Drone Racing League Simulator on Steam" product_aff_link="https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator" %}
-
-___
-
-#### _**I LOVE DRONES [My Blog Homepage](/)**_
-#### _Follow me on Instagram:_ [**justinmurdock7b**](https://www.instagram.com/justinmurdock7b/?hl=en)
