@@ -15,4 +15,4 @@ permalink: /vid_test/
 #### More information
 
 * Emails have file size limits, even sending a short preview of an UltraHD video can prove difficult. This page uses web-hosting for the content and allows me to show you a preview of footage I might capture for you.
-* The full resolution files are huge at 4K resolution and up to 60 FPS, I exported this video in such a way with lowered resolution so that **this video is only 17MB. I can capture single .JPG images 30-40 MB**. Even a short ultraHD video can be many GB.
+* The full resolution files are huge at 4K resolution and up to 60 FPS, I exported this video in such a way with lowered resolution so that **this video is only 17MB. I can capture single .JPG images 30-40 MB**
