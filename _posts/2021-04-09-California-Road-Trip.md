@@ -14,7 +14,7 @@ ___
 
 ## Western Oregon
 
-{% include PHOTOSPHERE.html caption="Eugene, Oregon" img_url="/images/2021-04-09/DJI_0320.JPG" id="viewer1" default_lat="-0.3" default_long="3.0" default_zoom="40" %}
+{% include PHOTOSPHERE.html caption="Eugene, Oregon" img_url="/images/2021-04-09/DJI_0320.JPG" id="viewerA" default_lat="-0.3" default_long="3.0" default_zoom="40" %}
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/001.jpg?raw=true)
 
@@ -46,7 +46,7 @@ ___
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/016_small.jpg?raw=true)
 
-{% include PHOTOSPHERE.html caption="Shasta Lake, California" img_url="/images/2021-04-09/DJI_0379.JPG" id="viewer3" default_lat="-0.3" default_long="1.3" default_zoom="20" %}
+{% include PHOTOSPHERE.html caption="Shasta Lake, California" img_url="/images/2021-04-09/DJI_0379.JPG" id="viewerB" default_lat="-0.3" default_long="1.3" default_zoom="20" %}
 
 ___
 
