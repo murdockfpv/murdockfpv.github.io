@@ -36,12 +36,3 @@ I can capture both your property, and the view from your property in a single ph
 * If you have reached this page through word of mouth or facebook then you already have my contact information. Please text me or call and leave a message, to begin arranging my services. 
 
 ## _**[Check out my pricing](/pricing/). Thank you for your interest.**_
-
-___
-
-> Full resolution videos and images available on request
-
-___
-
-#### _**I LOVE DRONES [My Blog Homepage](/)**_
-#### _Follow me on Instagram:_ [**justinmurdock7b**](https://www.instagram.com/justinmurdock7b/?hl=en)
