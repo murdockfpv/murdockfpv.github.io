@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Videography Services 
-permalink: /vid_test/
+title: Videography Services
 ---
 
 > Please allow the short video _**(0:12)**_ to load before pressing play.
