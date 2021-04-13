@@ -49,7 +49,7 @@ ___
 
 ___
 
-> Stay tuned for more photos on my next adventure!
+> Stay tuned for my next adventure!
 
 ___
 
