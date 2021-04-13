@@ -9,7 +9,7 @@
 </style>
 
 <script>
-var viewer = new PhotoSphereViewer.Viewer({
+var {{ include.id }} = new PhotoSphereViewer.Viewer({
     container: document.querySelector('#{{ include.id }}'),
     panorama: '{{ include.img_url }}',
     touchmoveTwoFingers: true,
