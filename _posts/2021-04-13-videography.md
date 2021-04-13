@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Videography Services
+preview: https://github.com/murdockFPV/murdockfpv.github.io/blob/master/images/poster_vid_test.png?raw=true
+thumbnail: https://github.com/murdockFPV/murdockfpv.github.io/blob/master/images/poster_vid_test.png?raw=true
 ---
 
 > Please allow the short video _**(0:12)**_ to load before pressing play.
