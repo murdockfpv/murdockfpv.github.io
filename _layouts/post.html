@@ -8,11 +8,13 @@ layout: default
   <div class="entry">
     {{ content }}
   </div>
-
+  <hr>
   <div class="date">
-    Written by Justin Murdock on {{ page.date | date: "%B %e, %Y" }}
+    {{ site.name }} - {{site.description}}
     <br>
-    <a href="/"><strong>All blog posts<strong></a>
+    Written on {{ page.date | date: "%B %e, %Y" }}
+    <br>
+    See other <a href="/"><strong>blog posts<strong></a>
     <br>
     Follow me on instagram: <a href="https://www.instagram.com/justinmurdock7b/?hl=en"><strong>justinmurdock7b</strong></a>
   </div>
