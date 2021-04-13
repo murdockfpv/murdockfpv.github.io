@@ -49,12 +49,3 @@ ___
 * My tablet: <a target="_blank" href="https://www.amazon.com/gp/product/B00TREI0F2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TREI0F2&linkCode=as2&tag=juliusakula-20&linkId=d3c3ea6f417ab8a892fc2b8ad159b120">Apple iPad Air 2, 64 GB</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=juliusakula-20&l=am2&o=1&a=B00TREI0F2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 * Cord: iPad (lightning) to Drone Controller (USB-C): <a target="_blank" href="https://www.amazon.com/gp/product/B07CMN7DCX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07CMN7DCX&linkCode=as2&tag=juliusakula-20&linkId=ac9208650b21db8825ccd9422ee183e3">Apple Lightning to USB-C Cable (1 m)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=juliusakula-20&l=am2&o=1&a=B07CMN7DCX" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 * DSLR Camera: <a target="_blank" href="https://www.amazon.com/gp/product/B07WFQZ6FL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07WFQZ6FL&linkCode=as2&tag=juliusakula-20&linkId=2cb2e924ace4cf937e2267c86852c7c9">Canon EOS M6 Mark II Mirrorless Camera, 15-45mm Lens, CMOS, APS-C Sensor, Dual Pixel CMOS Auto Focus, Wi-Fi, Bluetooth and 4K Video</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=juliusakula-20&l=am2&o=1&a=B07WFQZ6FL" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-___
-
-> Full resolution videos and images available on request
-
-___
-
-#### _**I LOVE DRONES:**_  _**[My Blog Homepage](/)**_ 
-#### _Follow me on Instagram:_ [**justinmurdock7b**](https://www.instagram.com/justinmurdock7b/?hl=en)
