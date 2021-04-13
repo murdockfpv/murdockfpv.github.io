@@ -46,12 +46,3 @@ ___
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/016_small.jpg?raw=true)
 
 {% include PHOTOSPHERE.html caption="Shasta Lake, California" img_url="/images/2021-04-09/DJI_0379.JPG" id="viewerB" default_lat="-0.3" default_long="1.3" default_zoom="20" %}
-
-___
-
-> Stay tuned for my next adventure!
-
-___
-
-#### _**I LOVE DRONES:**_  _**[My Blog Homepage](/)**_ 
-#### _Follow me on Instagram:_ [**justinmurdock7b**](https://www.instagram.com/justinmurdock7b/?hl=en)
