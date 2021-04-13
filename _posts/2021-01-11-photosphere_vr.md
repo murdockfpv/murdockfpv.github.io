@@ -20,9 +20,3 @@ ___
 ___
 
 {% include PHOTOSPHERE.html caption="Hawk Nests © Justin Murdock" img_url="/images/DJI_0354.JPG" id="viewerB" default_lat="-1.48" default_long="5.02" default_zoom="70" %}
-
-___
-
-
-#### _**I LOVE DRONES [My Blog Homepage](/)**_
-#### _Follow me on Instagram:_ [**justinmurdock7b**](https://www.instagram.com/justinmurdock7b/?hl=en)
