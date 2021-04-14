@@ -18,6 +18,7 @@ layout: default
     <br>
     {{ site.name }} - {{site.description}}
   </div>
-
-  {% include disqus.html %}
+  {% if site.disqus.shortname %}
+    {% include disqus.html %}
+  {% endif %}
 </article>
