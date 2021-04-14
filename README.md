@@ -8,7 +8,7 @@ ___
 
 # Blog to serve as a portfolio for my drone photos
 
-## Documentation:
+## Jekyll blog usage documentation:
 
 ### 360 Photo-viewer usage: 
 
