@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Real Estate Photography - Justin Murdock
+title: Real Estate Photography
 permalink: /photography/
 preview: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/sunnyside_2.jpg?raw=true
 thumbnail: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/sunnyside_2.jpg?raw=true
