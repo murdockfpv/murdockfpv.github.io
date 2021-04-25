@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Real Estate Photography
+title: Real Estate Photography Services
 permalink: /photography/
 preview: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/sunnyside_2.jpg?raw=true
 thumbnail: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/sunnyside_2.jpg?raw=true
