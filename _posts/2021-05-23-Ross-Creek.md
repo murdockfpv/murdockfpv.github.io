@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ross Creek Cedars, Montana (20 photos)
+title: Ross Creek Cedars, Montana (21 photos)
 preview: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/14.jpg?raw=true
 thumbnail: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/14.jpg?raw=true
 
@@ -10,11 +10,11 @@ thumbnail: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images
 
 ___
 
-## VR viewer
+## Virtual Reality viewer
 
 {% include PHOTOSPHERE_LIBRARY.html %}
 
-{% include PHOTOSPHERE_FLIPBOOK.html captions="'At the Ross Creek Cedars', 'Before the Ross Creek Cedars'" img_urls="'/images/2021-05-23/DJI_0453.JPG', '/images/2021-05-23/DJI_0499.JPG'" id="viewer1" default_lat="-0.412" default_long="3.682" default_zoom="40" %}
+{% include PHOTOSPHERE_FLIPBOOK.html captions="'At the Ross Creek Cedars (1/2)', 'Before the Ross Creek Cedars (2/2)'" img_urls="'/images/2021-05-23/DJI_0453.JPG', '/images/2021-05-23/DJI_0499.JPG'" id="viewer1" default_lat="-0.412" default_long="3.682" default_zoom="40" %}
 
 ## Bull Lake (left), Snowshoe Peak
 
@@ -23,20 +23,27 @@ ___
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/3_smaller.jpg?raw=true)
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/3_.jpg?raw=true)
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/4.jpg?raw=true)
+![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/5_smaller.jpg?raw=true)
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/6.jpg?raw=true)
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/9.jpg?raw=true)
 
-## Group adventure!
+## We are on a briiiidge
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/10.jpg?raw=true)
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/11.jpg?raw=true)
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/12.jpg?raw=true)
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/13.jpg?raw=true)
+
+## Debris in the river
+
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/14.jpg?raw=true)
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/15.jpg?raw=true)
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/16.jpg?raw=true)
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/17.jpg?raw=true)
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/18.jpg?raw=true)
+
+## Thick trees
+
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/19.jpg?raw=true)
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/20.jpg?raw=true)
 
