@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ross Creek Cedars, Montana (22 photos)
+title: Ross Creek Cedars, Montana (20 photos)
 preview: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/14.jpg?raw=true
 thumbnail: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/14.jpg?raw=true
 
