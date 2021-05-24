@@ -27,7 +27,7 @@ ___
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/6.jpg?raw=true)
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/9.jpg?raw=true)
 
-## We are on a briiiidge
+## We're on a briiiidge
 
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/10.jpg?raw=true)
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/11.jpg?raw=true)
