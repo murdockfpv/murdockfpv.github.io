@@ -14,7 +14,7 @@ ___
 
 {% include PHOTOSPHERE_LIBRARY.html %}
 
-{% include PHOTOSPHERE_FLIPBOOK.html captions="'At the Ross Creek Cedars', 'Before the Ross Creek Cedars'" img_urls="'/images/2021-05-23/DJI_0453.JPG', '/images/2021-05-23/DJI_0499.JPG'" id="viewer1" default_lat="0.158" default_long="0.84" default_zoom="70" %}
+{% include PHOTOSPHERE_FLIPBOOK.html captions="'At the Ross Creek Cedars', 'Before the Ross Creek Cedars'" img_urls="'/images/2021-05-23/DJI_0453.JPG', '/images/2021-05-23/DJI_0499.JPG'" id="viewer1" default_lat="-0.412" default_long="3.682" default_zoom="40" %}
 
 ## Bull Lake (left), Snowshoe Peak
 
