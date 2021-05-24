@@ -39,14 +39,16 @@ ___
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/14.jpg?raw=true)
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/15.jpg?raw=true)
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/16.jpg?raw=true)
+
+## Stacked rocks
+
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/17.jpg?raw=true)
-![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/18.jpg?raw=true)
 
 ## Thick trees
 
+![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/18.jpg?raw=true)
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/19.jpg?raw=true)
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/20.jpg?raw=true)
-
 ![](https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-05-23/21.jpg?raw=true)
 
 > Here my dad is showing Megan a plant he identified as wild ginger. Megan just got a gardening job, and I was really happy that this moment happened and really just happy that the three of us could be together in general. There are very few primary growth forests left and this was such a cool spot to check out, I highly recommend it. Bring your loved ones!
