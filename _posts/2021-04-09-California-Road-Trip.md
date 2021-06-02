@@ -1,8 +1,8 @@
 ---
 layout: post
 title: California Road Trip (15 photos)
-preview: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/016_small.jpg?raw=true
-thumbnail: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-09/016_small.jpg?raw=true
+preview: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-23/013.jpg?raw=true
+thumbnail: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-04-23/013.jpg?raw=true
 ---
 
 > On April 8th, 2021 I drove from Portland to San Francisco, and stopped several places along I-5 to fly and take photos.
