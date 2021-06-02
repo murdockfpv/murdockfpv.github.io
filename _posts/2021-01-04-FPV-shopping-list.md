@@ -6,7 +6,7 @@ preview: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/l
 thumbnail: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/list-2021-01-03/31_emax_tinyhawk2.jpg?raw=true
 ---
 
-> Curious about FPV and looking at getting started with drones!? If you share this interest in drones with me and need to know what to buy, consider using the links on this page which will earn me a commmision (at no extra cost to you). I hope this page has useful information about drones for you.
+> Curious about FPV and looking at getting started with drones!? If you share this interest in drones with me and need to know what to buy, consider using the links!
 
 _written by Justin Murdock, on Jan 3, 2021_
 
