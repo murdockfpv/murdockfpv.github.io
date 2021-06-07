@@ -35,8 +35,8 @@ ___
 {% include image.html img_url="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/list-2021-01-03/4_taranis_x9d.jpg?raw=true" description="$218 FPV CONTROLLER: Taranis X9D" product_aff_link="https://www.amazon.com/FrSky-Taranis-Access-Telemetry-Silver/dp/B07VRP1V76/ref=sr_1_1?tag=juliusakula-20" %}
 ```
 
-### Posting videos:
+### Posting videos (under 25MB for github-pages):
 
-* code example: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/vid_test.md
-* demo: https://murdockfpv.github.io/vid_test/
+* code example: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/_posts/2021-04-13-videography.md
+* demo: https://murdockfpv.github.io/videography/
 
