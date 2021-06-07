@@ -6,7 +6,7 @@ thumbnail: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images
 
 ---
 
-> I went on an adventure with my girlfriend and my dad to the Ross Creek Cedars in Montana. It was a really cool place to fly, but particularly dangerous with the density of trees! Crashing on these steep mountains or above the river would have been bye-bye birdie! Were the photos worth the risk?
+> I went on an adventure with my girlfriend and my dad to the Ross Creek Cedars in Montana. It was a really cool place to fly, but particularly dangerous with the density of trees!
 
 ___
 
