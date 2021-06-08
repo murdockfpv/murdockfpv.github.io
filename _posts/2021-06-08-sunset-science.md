@@ -8,7 +8,11 @@ tags: sunset; clouds
 
 > In my research of clouds and sunsets, one feature stands out above the rest: the color red. There is a simple scientific explanation for why clouds turn red as the sun sets.
 
-### Sun set is at 8:44 pm:
+___
+
+## Sunset Science: The Color Red
+
+### June 7th, 2021; Sunset is at 8:44 pm:
 
 <figure>
 <img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-06-07/2021-06-07-2041.jpg?raw=true" style="max-height: 100%; max-width: 100%"/>
