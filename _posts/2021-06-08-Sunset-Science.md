@@ -10,9 +10,7 @@ tags: sunset; clouds
 
 ___
 
-## Sunset Science: The Color Red
-
-### June 7th, 2021; Sunset is at 8:44 pm:
+## June 7th, 2021; Sunset is at 8:44 pm:
 
 <figure>
 <img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-06-07/2021-06-07-2041.jpg?raw=true" style="max-height: 100%; max-width: 100%"/>
