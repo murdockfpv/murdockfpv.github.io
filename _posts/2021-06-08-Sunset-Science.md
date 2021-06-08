@@ -42,7 +42,7 @@ When this light - minus blue - hits clouds, it reflects different colors dependi
 
 <figure>
 <img src="https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-06-07/sunset_launch.gif?raw=true" style="max-height: 100%; max-width: 100%"/>
-<figcaption class="caption" style="text-align: center; width:50%;"><i>November 13, 2020, Alex G Perez twitter: @agpfoto</i></figcaption>
+<figcaption class="caption" style="text-align: center; width:50%;"><i>November 13, 2020, Alex G Perez twitter: <a href="https://www.instagram.com/agpfoto/">@agpfoto</a></i></figcaption>
 </figure>
 
 There are many things to note about this pyrocumulus cloud formed by a rocket launch. First, near the surface the dark clouds are dark because they are in the shadow of the earth! Sunlight is not able to hit the surface or these clouds. Above that, we can see red where light has traveled at a tangent, the greatest distance through the atmosphere. Above that is orange, where blue light has scattered but yellow and red light remain. Very high up, near the top of this cloud it is white; this is because at such great altitudes the atmosphere is very thin, with less air molecules and particles to cause any scattering - the sunlight hits this part of the cloud directly.
