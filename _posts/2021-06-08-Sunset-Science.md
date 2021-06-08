@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sunset Science: The Color Red
+title: Sunset Science, the color red
 preview: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-06-07/2021-06-07-2051.jpg?raw=true
 thumbnail: https://github.com/murdockfpv/murdockfpv.github.io/blob/master/images/2021-06-07/2021-06-07-2051.jpg?raw=true
 tags: sunset; clouds
