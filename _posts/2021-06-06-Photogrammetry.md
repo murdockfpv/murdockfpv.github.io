@@ -13,4 +13,4 @@ thumbnail: https://github.com/murdockFPV/murdockfpv.github.io/blob/master/images
 
 Photogrammetry takes georeferenced metadata from photos (GPS position, direction, angle of camera) and tri-angulates them with other photos in order to create a 3D model. Using my drone I am able to map 30 acres per hour of flight time, accurate to 2cm.
 
-I can provide this service for site planning/surveying, digital twin/extended reality applications, and jobsite/earthwork monitoring. Please inquire with any questions!
+I can provide this service for real estate mapping, surveying, site planning, jobsite monitoring and verification, and disaster remediation. Creating a digital terrain map (DTM) is the most comprehensive way to create an understanding of every facet of a location. If a tree fell through a roof, an aerial 3D scan could provide accurate and helpful information for a variety of purposes. Models are accurate to 2cm. Please inquire with any questions!
